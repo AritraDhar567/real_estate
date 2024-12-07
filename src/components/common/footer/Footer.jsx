@@ -44,7 +44,7 @@ const Footer = () => {
           ))}
         </div>
       </footer>
-      
+      <div>Developed by Aritra   ~aritrodhar.ad@gmail.com<div/>
     </>
   )
 }
